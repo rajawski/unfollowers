@@ -68,7 +68,7 @@ sudo pacman -S tk
 No installation needed. Just download or clone this repository and run the script directly.
 
 ```bash
-git clone https://github.com/yourname/unfollowers.git
+git clone https://github.com/rajawski/unfollowers.git
 cd unfollowers
 python unfollowers.py
 ```
